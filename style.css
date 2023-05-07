@@ -1,0 +1,113 @@
+@font-face {
+    font-family: qasim;
+    src: url(TTCommons-Regular.woff);
+  }
+
+  h1 {
+    font-family: qasim;
+  }
+
+  p {
+    font-family: qasim;
+  }
+
+  h5 {
+    font-family: qasim;
+  }
+
+  h4 {
+    font-family: qasim;
+  }
+
+  p.small {
+    line-height: 0.1;
+  }
+.firstheading
+{
+    margin-left: 21px;font-weight: 700;
+}
+.m1
+{
+    margin-left: 21px;font-weight: 700;font-size: 11px;letter-spacing: 1px;
+}
+
+.m2
+{
+    margin-top: 20px;font-weight: 700;
+}
+.m3
+{
+    font-weight: 600;
+}
+.m4
+{
+    font-weight: 700;
+}
+.m5
+{
+    font-weight: 700;
+}
+.m6
+{
+    font-size: 11px;letter-spacing: 1px;
+}
+.m7
+{
+    font-weight: 600;font-family: qasim;
+}
+.m8
+{
+    font-weight: 700;
+}
+.m9
+{
+    font-size: 11px;letter-spacing: 1px;
+}
+.m10
+{
+    font-weight: 600;font-family: qasim;
+}
+
+.m11
+{
+    font-weight: 700;margin-top: 20px;
+}
+.m12
+{
+    font-weight: 700;
+}
+.m13
+{
+
+font-size: 11px;letter-spacing: 1px;
+}
+.m14
+{
+    font-size: 11px;letter-spacing: 1px;
+}
+.m15
+{
+    background-color: #06344b;width: 40px;
+}
+.m16
+{
+    color: white;margin-top: 100px;
+
+}
+.m17
+{
+    color: white;
+}
+.m18
+{
+    color: white;margin-top: 30px;
+}
+.m19
+{
+    color: white;
+}
+
+
+
+
+
